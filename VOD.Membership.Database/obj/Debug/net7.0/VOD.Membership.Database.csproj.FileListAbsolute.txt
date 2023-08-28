@@ -1,0 +1,17 @@
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\bin\Debug\net7.0\VOD.Membership.Database.deps.json
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\bin\Debug\net7.0\VOD.Membership.Database.runtimeconfig.json
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\bin\Debug\net7.0\VOD.Membership.Database.dll
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\bin\Debug\net7.0\VOD.Membership.Database.pdb
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\bin\Debug\net7.0\VOD.Common.dll
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\bin\Debug\net7.0\VOD.Common.pdb
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.csproj.AssemblyReference.cache
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.AssemblyInfoInputs.cache
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.AssemblyInfo.cs
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.csproj.CopyComplete
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.dll
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\refint\VOD.Membership.Database.dll
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.pdb
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\VOD.Membership.Database.genruntimeconfig.cache
+C:\Users\amirs\Desktop\ASP.NET\VideoOnDemand\VOD.Membership.Database\obj\Debug\net7.0\ref\VOD.Membership.Database.dll

@@ -1,6 +1,13 @@
+using VOD.Membership.Database;
+using Microsoft.EntityFrameworkCore;
+using VOD.Membership.Database.Contexts;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+
+
 builder.Services.AddCors(policy => {
 policy.AddPolicy("CorsAllAccessPolicy", opt =>
 opt.AllowAnyOrigin()
@@ -15,6 +22,11 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddDbContext<VODContext>(
+options => options.UseSqlServer(
+ builder.Configuration.GetConnectionString("VODConnection")));
+
 
 var app = builder.Build();
 
